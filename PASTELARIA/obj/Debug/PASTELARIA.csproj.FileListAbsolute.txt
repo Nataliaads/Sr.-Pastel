@@ -1,0 +1,14 @@
+C:\Users\Natalia\source\repos\PASTELARIA\PASTELARIA\bin\Debug\PASTELARIA.exe.config
+C:\Users\Natalia\source\repos\PASTELARIA\PASTELARIA\bin\Debug\PASTELARIA.exe
+C:\Users\Natalia\source\repos\PASTELARIA\PASTELARIA\bin\Debug\PASTELARIA.pdb
+C:\Users\Natalia\source\repos\PASTELARIA\PASTELARIA\obj\Debug\PASTELARIA.csprojAssemblyReference.cache
+C:\Users\Natalia\source\repos\PASTELARIA\PASTELARIA\obj\Debug\PASTELARIA.frmMenu.resources
+C:\Users\Natalia\source\repos\PASTELARIA\PASTELARIA\obj\Debug\PASTELARIA.Properties.Resources.resources
+C:\Users\Natalia\source\repos\PASTELARIA\PASTELARIA\obj\Debug\PASTELARIA.csproj.GenerateResource.cache
+C:\Users\Natalia\source\repos\PASTELARIA\PASTELARIA\obj\Debug\PASTELARIA.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\source\repos\PASTELARIA\PASTELARIA\obj\Debug\PASTELARIA.exe
+C:\Users\Natalia\source\repos\PASTELARIA\PASTELARIA\obj\Debug\PASTELARIA.pdb
+C:\Users\Natalia\source\repos\PASTELARIA\PASTELARIA\obj\Debug\PASTELARIA.frmSobre.resources
+C:\Users\Natalia\Source\Repos\PASTELARIA\PASTELARIA\obj\Debug\PASTELARIA.frmCliente.resources
+C:\Users\Natalia\Source\Repos\PASTELARIA\PASTELARIA\obj\Debug\PASTELARIA.frmProduto.resources
+C:\Users\Natalia\Source\Repos\PASTELARIA\PASTELARIA\obj\Debug\PASTELARIA.frmPedido.resources
